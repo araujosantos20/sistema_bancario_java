@@ -59,7 +59,7 @@ Este projeto foi desenvolvido com foco em aprendizado, simulando operações bá
 
 - Implementar persistência de dados (salvar em arquivo)
 
-###👨‍💻 Desenvolvido para fins de estudo em Java
+### 👨‍💻 Desenvolvido para fins de estudo em Java
 
 
 ---
